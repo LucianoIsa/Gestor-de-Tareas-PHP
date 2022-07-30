@@ -21,7 +21,7 @@
                     <div class="form-group">
                         <textarea name="description" rows="2" class="form-control" placeholder="Descripcion de la Tarea"></textarea>
                     </div>
-                    <input type="submit" class="btn btn-success btn-block" name="save_task" value="Guardar">
+                    <input type="submit" class="btn btn-success btn-block " name="save_task" value="Guardar">
                 </form>
             </div>
 
